@@ -1,0 +1,87 @@
+#Write a code to accept a number & print its digits in words .
+#	     Ex:	321
+#		Three
+#		Two
+#		One
+
+
+
+
+def printValue(digit): 
+  
+
+    if digit == '0': 
+        print("Zero ", end = " ") 
+  
+    
+    elif digit == '1': 
+        print("One ", end = " ") 
+  
+    
+    elif digit == '2': 
+        print("Two ", end = " ") 
+  
+    
+    elif digit=='3': 
+        print("Three",end=" ") 
+  
+    
+    elif digit == '4': 
+        print("Four ", end = " ") 
+  
+    
+    elif digit == '5': 
+        print("Five ", end = " ") 
+  
+   
+    elif digit == '6': 
+        print("Six ", end = " ") 
+  
+    
+    elif digit == '7': 
+        print("Seven", end = " ") 
+  
+    
+    elif digit == '8': 
+        print("Eight", end = " ") 
+  
+    
+    elif digit == '9': 
+        print("Nine ", end = " ") 
+  
+
+def printWord(N): 
+    i = 0
+    length = len(N)  
+    while i < length: 
+          
+        # Print the digit in words 
+        printValue(N[i]) 
+        i += 1
+  
+
+N = input("Enter number:")
+printWord(N) 
+
+Method 2:
+def print_words(n):
+    dic={1:'One',2:'Two',3:'Three',4:'Four',5:'Five',6:'Six',7:'Seven',8:'Eight',
+       9:'Nine',10:'Ten'}
+    while n>0:
+        d=n%10
+        print(dic[d])
+        n=n//10
+
+def reverse(n):
+    rev=0
+    while n>0:
+        d=n%10
+        rev=rev*10+d
+        n=n//10
+    return rev
+
+n=int(input("Enter the number:"))
+c=reverse(n)
+print_words(c)
+
+
