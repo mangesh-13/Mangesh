@@ -1,0 +1,23 @@
+What is cloud?
+-->Its a sharing of resources. From remote location we are accessing this resources via internet on pay as you go model.
+
+
+Advantages of cloud:
+1)Scalability: 
+Easy to grow and shrink number and size of servers based on the need. This is done by increasing or decreasing the resources in the cloud.
+
+2)Instant: 
+Whatever we want is instantly available in the cloud.
+
+3) Save Money: 
+Reduction in hardware cost.No need to purchase hardware equipments.
+No need to pay for power cost and save spaces.
+
+ 
+4)Back-up and restore data:
+Once data is stored in cloud it is easy to get back up and restore data.
+
+5)Offers unlimited storage capacity
+
+6)Data is securely stored and can be handled.
+
