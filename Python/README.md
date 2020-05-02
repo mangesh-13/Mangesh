@@ -9,7 +9,7 @@
 
 * then create file using following command
 
- ```sh
- $ vi addition.py
+  ```sh
+  $ vi addition.py
 
- ```
+  ```
