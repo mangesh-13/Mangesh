@@ -34,4 +34,4 @@ print(my_counter.most_common(1)[0])
 print(my_counter.most_common(3)[0][0])
 print(my_counter.most_common(3)[1][0])
 print(my_counter.most_common(3)[2][0])
-
+print(list(my_counter.elements()))
