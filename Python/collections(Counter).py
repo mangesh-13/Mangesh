@@ -27,4 +27,11 @@ No parameters
 print(my_counter.items())
 print(my_counter.values())
 print(my_counter.keys())
- 
+print(my_counter.most_common(1))
+print(my_counter.most_common(2))
+print(my_counter.most_common(3))
+print(my_counter.most_common(1)[0])
+print(my_counter.most_common(3)[0][0])
+print(my_counter.most_common(3)[1][0])
+print(my_counter.most_common(3)[2][0])
+
