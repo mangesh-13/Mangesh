@@ -1,6 +1,6 @@
 # Virtual Private Cloud:
 
-## A Virtual Private Cloud is a virtual network that closely resembles a traditiobal networking that operates in your own datacenter, with the benifits of using the scalable infrastructure of AWS
+## A Virtual Private Cloud is a virtual network that closely resembles a traditional networking that operates in your own datacenter, with the benifits of using the scalable infrastructure of AWS
 
 * It is logically isolated from other virtual network in the AWS cloud.
 * Max 5 VPC can be created and 200 Subnets in 1 VPC.
