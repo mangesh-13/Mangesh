@@ -4,17 +4,17 @@
 
 # AWS Lambda manages all the administration it manages:
 
-* 1) AWS manages how much memory, CPU, network and other resources needed to run your code.
-* 2) Server and OS maintenance.
-* 3) High availability and automatic scaling.
-* 4) Monitoring fleet health
-* 5) Applying security patches
-* 6) Deploying your code
-* 7) Monitoring and logging your lambda functions
-* 8) AWS lambda runs your code on a high availability compute infrastructure
-* 9) AWS lamda runs executes your code only when needed and scales automatically from a few requests per day to thousands per second.
-* 10) You only pay for the compute time you consume. No charge when your code is not running.
-* 11) All you need to do is supply your code in the form of one or more lamda functions to AWS lambda, in one of the languages that AWS lambda supports(currently Node js, Java, Powershell, C#, Ruby,Pythin and Go) and the server can run the code on your behalf.
+*  AWS manages how much memory, CPU, network and other resources needed to run your code.
+*  Server and OS maintenance.
+*  High availability and automatic scaling.
+*  Monitoring fleet health
+*  Applying security patches
+*  Deploying your code
+*  Monitoring and logging your lambda functions
+*  AWS lambda runs your code on a high availability compute infrastructure
+*  AWS lamda runs executes your code only when needed and scales automatically from a few requests per day to thousands per second.
+*  You only pay for the compute time you consume. No charge when your code is not running.
+*  All you need to do is supply your code in the form of one or more lamda functions to AWS lambda, in one of the languages that AWS lambda supports(currently Node js, Java, Powershell, C#, Ruby,Pythin and Go) and the server can run the code on your behalf.
 
 # How Lambda function works?
 
