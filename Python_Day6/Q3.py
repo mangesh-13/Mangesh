@@ -14,7 +14,20 @@ for i in range(0,len(List)):
 
 print(List)
 
+'''
+def insertion_sort(A):
+    for i in range(1,len(A)):
+        for j in range(i-1,-1,-1):
+            if A[j]> A[j+1]:
+                A[j],A[j+1] = A[j+1],A[j]
+            else:
+                break
 
+A=list(map(int,input("Enter List elements:").strip().split()))
+print(A)
+insertion_sort(A)
+print("List after sorting:",A)
+'''
 
 
 
