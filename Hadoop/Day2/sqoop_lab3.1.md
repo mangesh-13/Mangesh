@@ -40,4 +40,7 @@ log event stating that 10,000 records were exported.
 ![Capture5](https://user-images.githubusercontent.com/64658306/86394048-89801400-bcbb-11ea-9929-6014d8a8bed9.JPG)
 ![Capture6](https://user-images.githubusercontent.com/64658306/86394051-8be26e00-bcbb-11ea-832f-3cc6dfa5dd47.JPG)
 ![Capture7](https://user-images.githubusercontent.com/64658306/86394053-8e44c800-bcbb-11ea-8522-8c8efa425bea.JPG)
+
+**Verify it worked by viewing the table’s contents from the mysql prompt**
+
 ![Capture9](https://user-images.githubusercontent.com/64658306/86393304-791b6980-bcba-11ea-8d99-825db3c20356.JPG)
