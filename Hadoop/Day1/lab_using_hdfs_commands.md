@@ -9,7 +9,8 @@ Run the -ls command again, but this time specify the root HDFS folder**
 # hdfs dfs -ls /
 ```
 **The output will look like :**
- ![Capture](https://user-images.githubusercontent.com/64658306/85610593-c2453b00-b674-11ea-80c6-adee98cfb841.JPG)
+
+![Capture](https://user-images.githubusercontent.com/64658306/85610593-c2453b00-b674-11ea-80c6-adee98cfb841.JPG)
 
 **b) Enter the following command to create a directory named test in HDFS:**
 ```ssh
